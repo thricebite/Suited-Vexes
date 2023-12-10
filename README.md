@@ -20,3 +20,7 @@ Please check out the [gallery](https://modrinth.com/resourcepack/suitedvexes/gal
 ### Bedrock Resource Pack
 
 Resource pack for Bedrock (does not have Optifine features, it is limited to **one type** of vex): https://github.com/thricebite/Suited-Vexes/releases
+
+### Suited Allays Resource Pack
+
+[![Suited Allays](https://cdn.modrinth.com/data/1cL27r1Z/efe793f330637cef4878fae8da56c96abe75ded3.png)](https://github.com/thricebite/Suited-Allays)
