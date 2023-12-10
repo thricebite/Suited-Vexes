@@ -19,6 +19,4 @@ Please check out the [gallery](https://modrinth.com/resourcepack/suitedvexes/gal
 
 ### Bedrock Resource Pack
 
-Resource pack for Bedrock (does not have Optifine features, it is limited to **one type** of vex): 
-
-Insert GitHub link
+Resource pack for Bedrock (does not have Optifine features, it is limited to **one type** of vex): https://github.com/thricebite/Suited-Vexes/releases
