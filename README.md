@@ -8,7 +8,7 @@ Here are some mods to enable Optifine custom and random texture features:
 - Optifine: https://www.optifine.net/home
 
 Please check out the [gallery](https://modrinth.com/resourcepack/suitedvexes/gallery
-) to check out some vex models.
+) to see what to rename your vexes to, to get the corresponding skin.
 
 <details>
 <summary>Click here to see the Santa Vex model</summary>
